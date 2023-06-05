@@ -1,0 +1,2 @@
+# aws_sagemaker_localmode
+SageMakerのローカルモードについて調査した資材を格納する
